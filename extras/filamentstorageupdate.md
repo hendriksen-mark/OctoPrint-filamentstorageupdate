@@ -8,9 +8,9 @@ author: Walt Moorhouse
 license: AGPLv3  
 date: 2019-10-23
 
-homepage: https://github.com/hendriksen-mark/OctoPrint-Filamentstorageupdate  
-source: https://github.com/hendriksen-mark/OctoPrint-Filamentstorageupdate  
-archive: https://github.com/hendriksen-mark/OctoPrint-Filamentstorageupdate/archive/master.zip
+homepage: https://github.com/hendriksen-mark/OctoPrint-filamentstorageupdate
+source: https://github.com/hendriksen-mark/OctoPrint-filamentstorageupdate  
+archive: https://github.com/hendriksen-mark/OctoPrint-filamentstorageupdate/archive/master.zip
 
 tags:
 - filament
