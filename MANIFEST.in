@@ -1,4 +1,4 @@
 include README.md
-recursive-include OctoPrint-filamentstorageupdate/templates *
-recursive-include OctoPrint-filamentstorageupdate/translations *
-recursive-include OctoPrint-filamentstorageupdate/static *
+recursive-include octoprint-filamentstorageupdate/templates *
+recursive-include octoprint-filamentstorageupdate/translations *
+recursive-include octoprint-filamentstorageupdate/static *
