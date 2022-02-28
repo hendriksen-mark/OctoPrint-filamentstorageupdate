@@ -6,7 +6,7 @@ title: OctoPrint-Filamentstorageupdate
 description: Plugin for OpenSource Filament Storage Containers that report Temp, Humidity, and scale values over USB.  
 author: Walt Moorhouse  
 license: AGPLv3  
-date: 2019-10-23
+date: 2022-02-28
 
 homepage: https://github.com/hendriksen-mark/OctoPrint-filamentstorageupdate
 source: https://github.com/hendriksen-mark/OctoPrint-filamentstorageupdate  
